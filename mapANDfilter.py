@@ -1,7 +1,7 @@
 
 
 
-                          # MAP & Filter:
+                          # MAP
 
 
 menu = ["espresso", "mocha", "latte", "cappuccino", "cortado", "petite"]
