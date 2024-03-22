@@ -21,7 +21,7 @@ print(list(y))
 
 
 
-print("Hello world!"); print("Hello world!"); print("Hello") ; print('World')    # we canb use [;] to code different codes in a single line:
+print("Hello world!"); print("Hello world!"); print("Hello") ; print('World') 
 
 x          =                1                     +                     2
 print(x)
